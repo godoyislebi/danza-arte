@@ -1,1 +1,44 @@
 /* Inserta tu codigo que es común para todas las páginas aqui */
+*{
+	box-sizing: border-box;
+}
+
+.header{
+	height: 100px;
+	margin-bottom: 40px;
+}
+
+.header .tamaño{
+	margin-bottom: 20px;
+}
+
+.texto1{
+	font-size: 13px;
+}
+
+.fondoazul{
+	background: #002147;
+}
+
+.tamaño{
+	font-size:22px;
+}
+
+.contactanos{
+	background: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+}
+
+.textofooter{
+	margin-left: 30px;
+}
+
+.margtop{
+	margin-top:50px; 
+}
+
+.marginindex{
+	margin-top: 20px;
+}
